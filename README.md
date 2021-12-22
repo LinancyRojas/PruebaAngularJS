@@ -1,6 +1,6 @@
 # PruebaAngularJS
 
-1.- Descargar proyecto
+1.- Descargar ZIP del proyecto
 2.- Descomprimir en Escritorio
 3.- Abrir archivo test.html
       3.1.- Guardar
